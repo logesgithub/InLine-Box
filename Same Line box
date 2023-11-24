@@ -1,0 +1,12 @@
+<div class="ui form">
+    <div class="fields">
+        <div class="six wide required field">
+            <label>Method 1</label>
+            <input type="text" placeholder="Name">
+        </div>
+        <div class="two wide field">
+            <label>&nbsp;</label>
+            <div class="ui blue button">Search</div>
+        </div>
+    </div>
+</div>
